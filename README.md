@@ -7,15 +7,13 @@
 
 ---
 
-## Introduction
-
-### Overview
+## Overview
 
 Road safety during winter months remains a critical concern due to the elusive nature of black ice, a thin layer of ice that forms on road surfaces, making it challenging for drivers to identify and navigate safely. In an effort to address this issue, our research team at Cheongshim International Academy (CSIA) has conducted extensive studies on real-time black ice detection utilizing YOLOX, a state-of-the-art object detection algorithm, deployed on drones. As a significant contribution to the research community, we are pleased to share our meticulously curated image dataset, which encapsulates diverse scenarios and conditions representative of real-world black ice occurrences.
 
 ---
 
-### Significances of the Dataset
+## Significances of the Dataset
 
 The significance of this dataset lies in its potential to advance the development of effective black ice detection algorithms. By sharing our dataset with the research community, we aim to facilitate the creation of more accurate and reliable models for real-time detection of black ice using drone technology. The dataset includes annotations in COCO format, providing detailed information about the location and characteristics of black ice instances in each image.
 
@@ -33,7 +31,7 @@ The significance of this dataset lies in its potential to advance the developmen
 
 ---
 
-## Dataset in Numbers
+### Dataset in Numbers
 | Metric                              | White   | Black   | OD      |
 |-------------------------------------|---------|---------|---------|
 | Number of Annotations               | 437     | 2819    | 2417    |
