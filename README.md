@@ -11,6 +11,21 @@ Road safety during winter months remains a critical concern due to the elusive n
 
 ---
 
+## Table of Contents
+
+1. [Significances of the Dataset](#significances-of-the-dataset)
+2. [Dataset Statistics](#dataset-statistics)
+    1. [Train, Valid, Test Data Distribution](#train-valid-test-data-distribution)
+    2. [Dataset in Numbers](#dataset-in-numbers)
+3. [Categorization](#categorization)
+    1. [White Dataset: Information](#white-dataset-information)
+    2. [Black Dataset: Information](#black-dataset-information)
+    3. [Outdoor (OD) Dataset: Information](#outdoor-od-dataset-information)
+4. [Usage](#usage)
+5. [Cameras](#cameras)
+
+---
+
 ## Significances of the Dataset
 
 The significance of this dataset lies in its potential to advance the development of effective black ice detection algorithms. By sharing our dataset with the research community, we aim to facilitate the creation of more accurate and reliable models for real-time detection of black ice using drone technology. The dataset includes annotations in COCO format, providing detailed information about the location and characteristics of black ice instances in each image.
