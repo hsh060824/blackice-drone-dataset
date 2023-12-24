@@ -1,5 +1,5 @@
 # Black Ice Detection Dataset
-| White | Black | Outdoors |
+| White | Black | OD |
 |---------------|---------------|------------|
 | ![White Example](images/white_example.jpg) | ![Black Example](images/black_example.jpg) | ![OD Example](images/OD_example.jpg) |
 
