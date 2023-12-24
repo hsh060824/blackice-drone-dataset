@@ -9,19 +9,19 @@
 **Table x. 데이터셋 별 Train, Valid, Test 데이터 개수**
 | Dataset | Train | Valid | Test |
 |---------|-------|-------|------|
-| White   | 413   | 0     | 0    |
-| Black   | 814   | 0     | 0    |
-| OD      | 1137  | 325   | 162  |
+| White | 413 | 0 | 0 |
+| Black | 814 | 0 | 0 |
+| OD | 1137 | 325 | 162 |
 
 ### 2. Annotation Details
 
 **Table x. Annotation Details**
-| Metric                              | White   | Black   | OD      |
+| Metric | White | Black | OD |
 |-------------------------------------|---------|---------|---------|
-| Number of Annotations               | 437     | 2819    | 2417    |
-| Average Annotations per Image       | 1.1     | 3.5     | 1.5     |
-| Average Proportion of Instance Pixel Area | 3.16%   | 12.37%  | 12.34%  |
-| Average Image Brightness            | 149.358 | 123.028 | 56.575  |
+| Number of Annotations | 437 | 2819 | 2417 |
+| Average Annotations per Image | 1.1 | 3.5 | 1.5 |
+| Average Proportion of Instance Pixel Area | 3.16% | 12.37% | 12.34% |
+| Average Image Brightness | 149.358 | 123.028 | 56.575 |
 
 ### 3. Annotations per Image
 
@@ -36,9 +36,13 @@
 ### 5. Distribution of Pixel Proportion and Brightness
 
 **Bar Graphs: Pixel Proportion and Brightness**
-![Fig x. White 데이터셋 Pixel Proportion](images/PixelArea_W.png) ![Fig x. White 데이터셋 Brightness Distribution](images/brightness_w.png)
-![Fig x. Black 데이터셋 Pixel Proportion](images/PixelArea_B.png) ![Fig x. Black 데이터셋 Brightness Distribution](images/brightness_B.png)
-![Fig x. OD 데이터셋 Pixel Proportion](images/PixelArea_OD.png) ![Fig x. OD 데이터셋 Brightness Distribution](images/brightness_OD.png)
+
+- <img src="images/PixelArea_W.png" alt="Fig x. White 데이터셋 Pixel Proportion" width="300"/>
+- <img src="images/brightness_w.png" alt="Fig x. White 데이터셋 Brightness Distribution" width="300"/>
+- <img src="images/PixelArea_B.png" alt="Fig x. Black 데이터셋 Pixel Proportion" width="300"/>
+- <img src="images/brightness_B.png" alt="Fig x. Black 데이터셋 Brightness Distribution" width="300"/>
+- <img src="images/PixelArea_OD.png" alt="Fig x. OD 데이터셋 Pixel Proportion" width="300"/>
+- <img src="images/brightness_OD.png" alt="Fig x. OD 데이터셋 Brightness Distribution" width="300"/>
 
 ## Usage
 
