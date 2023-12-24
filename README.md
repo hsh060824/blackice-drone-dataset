@@ -47,7 +47,7 @@ In our pursuit of advancing the field of computer vision and contributing to ong
 
 | Annotations per Image | Annotation Locations in Heatmaps | Pixel Proportion | Brightness Distribution |
 |------------------------|------------------------------------|-------------------|--------------------------|
-| ![Annotations per Image](images/ObjCount_w.png) | ![Annotation Locations in Heatmaps](images/heatmap_w.png) | ![Pixel Proportion](images/PixelArea_W.png) | ![Brightness Distribution](images/brightness_w.png) |
+| ![Annotations per Image](images/ObjCount_w.png) | ![Annotation Locations in Heatmaps](images/heatmap_w.png) | ![Pixel Proportion](images/PixelArea_W.png) | ![Brightness Distribution](images/brightness_W.png) |
 
 #### Composition
 
