@@ -132,7 +132,7 @@ Represents real-world outdoor scenarios, offering a unique perspective for devel
 ---
 
 ## Usage
-- **Download:** The dataset can be freely downloaded from Zenodo using the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10428765.svg)](https://doi.org/10.5281/zenodo.10428765).
+- **Download:** The dataset can be freely downloaded from Zenodo using the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10428765.svg)](https://doi.org/10.5281/zenodo.10428765)
 
 ---
 
