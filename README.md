@@ -134,18 +134,11 @@ Represents real-world outdoor scenarios, offering a unique perspective for devel
 ---
 
 ## Usage
-<details>
-<summary>Click to expand</summary>
-
 - **Download:** The dataset can be freely downloaded from Zenodo using the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10428765.svg)](https://doi.org/10.5281/zenodo.10428765).
-
-</details>
 
 ---
 
 ## Cameras
-<details>
-<summary>Click to expand</summary>
 
 - iPhone SE2 (Apple, California)
 - iPhone SE3 (Apple, California)
@@ -154,5 +147,3 @@ Represents real-world outdoor scenarios, offering a unique perspective for devel
 - Q9 (LG Electronics, Seoul, Korea)
 - V30 (LG Electronics, Seoul, Korea)
 - Tello (DJI, ShenZhen, China)
-
-</details>
