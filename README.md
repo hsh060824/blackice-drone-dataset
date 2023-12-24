@@ -25,6 +25,7 @@ The significance of this dataset lies in its potential to advance the developmen
 | White   | 413   | 0     | 0    |
 | Black   | 814   | 0     | 0    |
 | OD      | 1137  | 325   | 162  |
+The purpose of the research is to ensure identification accuracy in the actual drone environment. Therefore, for the Test set and Val set, only real flight data from the OD dataset was included.
 
 ### Dataset in Numbers
 | Metric                              | White   | Black   | OD      |
