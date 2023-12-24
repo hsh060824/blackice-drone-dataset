@@ -26,26 +26,19 @@
 ### 3. Annotations per Image
 
 **Bar Graph: Annotations per Image**
-- <img src="images/ObjCount_w.png" alt="Fig x. White 데이터셋 Annotations per Image" width="300"/>
-- <img src="images/ObjCount_b.png" alt="Fig x. Black 데이터셋 Annotations per Image" width="300"/>
-- <img src="images/ObjCount_OD.png" alt="Fig x. OD 데이터셋 Annotations per Image" width="300"/>
+![Fig x. White 데이터셋 Annotations per Image](images/ObjCount_w.png) ![Fig x. Black 데이터셋 Annotations per Image](images/ObjCount_b.png) ![Fig x. OD 데이터셋 Annotations per Image](images/ObjCount_OD.png)
 
 ### 4. Annotation Heatmaps
 
 **Heatmap: Annotation Locations**
-- <img src="images/heatmap_w.png" alt="Fig x. White 데이터셋 Annotation Heatmap" width="300"/>
-- <img src="images/heatmap_b.png" alt="Fig x. Black 데이터셋 Annotation Heatmap" width="300"/>
-- <img src="images/heatmap_OD.png" alt="Fig x. OD 데이터셋 Annotation Heatmap" width="300"/>
+![Fig x. White 데이터셋 Annotation Heatmap](images/heatmap_w.png) ![Fig x. Black 데이터셋 Annotation Heatmap](images/heatmap_b.png) ![Fig x. OD 데이터셋 Annotation Heatmap](images/heatmap_OD.png)
 
 ### 5. Distribution of Pixel Proportion and Brightness
 
 **Bar Graphs: Pixel Proportion and Brightness**
-- <img src="images/PixelArea_W.png" alt="Fig x. White 데이터셋 Pixel Proportion" width="300"/>
-- <img src="images/brightness_w.png" alt="Fig x. White 데이터셋 Brightness Distribution" width="300"/>
-- <img src="images/PixelArea_B.png" alt="Fig x. Black 데이터셋 Pixel Proportion" width="300"/>
-- <img src="images/brightness_B.png" alt="Fig x. Black 데이터셋 Brightness Distribution" width="300"/>
-- <img src="images/PixelArea_OD.png" alt="Fig x. OD 데이터셋 Pixel Proportion" width="300"/>
-- <img src="images/brightness_OD.png" alt="Fig x. OD 데이터셋 Brightness Distribution" width="300"/>
+![Fig x. White 데이터셋 Pixel Proportion](images/PixelArea_W.png) ![Fig x. White 데이터셋 Brightness Distribution](images/brightness_w.png)
+![Fig x. Black 데이터셋 Pixel Proportion](images/PixelArea_B.png) ![Fig x. Black 데이터셋 Brightness Distribution](images/brightness_B.png)
+![Fig x. OD 데이터셋 Pixel Proportion](images/PixelArea_OD.png) ![Fig x. OD 데이터셋 Brightness Distribution](images/brightness_OD.png)
 
 ## Usage
 
