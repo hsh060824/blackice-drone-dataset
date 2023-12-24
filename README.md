@@ -41,7 +41,7 @@
 
 **Bar Graphs: Pixel Proportion and Brightness**
 - <img src="images/PixelArea_W.png" alt="Fig x. White 데이터셋 Pixel Proportion" width="300"/>
-- <img src="images/brightness_w.png" alt="Fig x. White 데이터셋 Brightness Distribution" width="300"/>
+- <img src="images/brightness_W.png" alt="Fig x. White 데이터셋 Brightness Distribution" width="300"/>
 - <img src="images/PixelArea_B.png" alt="Fig x. Black 데이터셋 Pixel Proportion" width="300"/>
 - <img src="images/brightness_B.png" alt="Fig x. Black 데이터셋 Brightness Distribution" width="300"/>
 - <img src="images/PixelArea_OD.png" alt="Fig x. OD 데이터셋 Pixel Proportion" width="300"/>
