@@ -100,8 +100,6 @@ Realistic emulation of black ice using backgrounds made up of asphalt pelts, pro
 
 </details>
 
-</details>
-
 <details>
 <summary><h3>Outdoor (OD) Dataset: Information</h3></summary>
 
