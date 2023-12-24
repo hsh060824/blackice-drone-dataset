@@ -41,7 +41,7 @@ The significance of this dataset lies in its potential to advance the developmen
 In our pursuit of advancing the field of computer vision and contributing to ongoing research endeavors, we proudly introduce three distinct image datasets meticulously curated by our research team. These datasets, categorized as "White," "Black," and "Outdoors (OD)," cater to unique scenarios and are designed to fuel the development of specialized models addressing specific challenges in visual recognition.
 
 <details>
-<summary><h3>White Dataset</h3></summary>
+<summary><h3>White Dataset: Information</h3></summary>
 
 | Annotations per Image | Annotation Locations in Heatmaps | Pixel Proportion | Brightness Distribution |
 |------------------------|------------------------------------|-------------------|--------------------------|
@@ -70,7 +70,7 @@ Valuable for highlighting the optical characteristics of black ice, enhancing mo
 </details>
 
 <details>
-<summary><h3>Black Dataset</h3></summary>
+<summary><h3>Black Dataset: Information</h3></summary>
 
 | Annotations per Image | Annotation Locations in Heatmaps | Pixel Proportion | Brightness Distribution |
 |------------------------|------------------------------------|-------------------|--------------------------|
@@ -101,7 +101,7 @@ Realistic emulation of black ice using backgrounds made up of asphalt pelts, pro
 </details>
 
 <details>
-<summary><h3>Outdoor (OD) Dataset</h3></summary>
+<summary><h3>Outdoor (OD) Dataset: Information</h3></summary>
 
 | Annotations per Image | Annotation Locations in Heatmaps | Pixel Proportion | Brightness Distribution |
 |------------------------|------------------------------------|-------------------|--------------------------|
