@@ -1,7 +1,7 @@
 # Black Ice Detection Dataset
-| White | Black | OD |
-|---------------|---------------|------------|
-| ![White Example](images/white_example.jpg) | ![Black Example](images/black_example.jpg) | ![OD Example](images/OD_example.jpg) |
+| White | Black | OD | The number of images & annotations |
+|---------------|---------------|------------|------------|
+| ![White Example](images/white_example.jpg) | ![Black Example](images/black_example.jpg) | ![OD Example](images/OD_example.jpg) | ![Dataset in a Nutshell](images/image_annotation_comparison.png) |
 
 ---
 
@@ -50,9 +50,6 @@ The purpose of the research is to ensure identification accuracy in the actual d
 | Average Annotations per Image       | 1.1     | 3.5     | 1.5     |
 | Average Proportion of Instance Pixel Area | 3.16%   | 12.37%  | 12.34%  |
 | Average Image Brightness            | 149.358 | 123.028 | 56.575  |
-
-### The number of images & annotation
-![The number of images & annotations](images/image_annotation_comparison.png){ width=400 }
 
 ---
 
