@@ -1,5 +1,5 @@
 # Black Ice Detection Dataset
-| White | Black | OD | The number of images & annotations |
+| White | Black | OD | images & annotations |
 |---------------|---------------|------------|------------|
 | ![White Example](images/white_example.jpg) | ![Black Example](images/black_example.jpg) | ![OD Example](images/OD_example.jpg) | ![Dataset in a Nutshell](images/image_annotation_comparison.png) |
 
