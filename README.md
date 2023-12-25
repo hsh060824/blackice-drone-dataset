@@ -51,6 +51,7 @@ The purpose of the research is to ensure identification accuracy in the actual d
 | Average Proportion of Instance Pixel Area | 3.16%   | 12.37%  | 12.34%  |
 | Average Image Brightness            | 149.358 | 123.028 | 56.575  |
 
+![The number of images & annotations](images/image_annotation_comparison.png)
 ---
 
 ## Categorization
